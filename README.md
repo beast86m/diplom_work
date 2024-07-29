@@ -38,5 +38,10 @@
 
 ![изображение](https://github.com/user-attachments/assets/9f5e484c-0a2c-4304-947c-20f679c6123f)
 
+Балансировщик:
+
+![изображение](https://github.com/user-attachments/assets/ff145ebd-9674-4d2a-8df1-189d1b903ec8)
+
+
 
 
