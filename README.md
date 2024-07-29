@@ -19,3 +19,4 @@
 ![изображение](https://github.com/user-attachments/assets/2e0203e4-6403-4b71-a55a-2075e16f08b4)
 
 ![изображение](https://github.com/user-attachments/assets/6f4a2040-d73f-49b3-978d-56c803d6b364)
+
