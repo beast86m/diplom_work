@@ -11,3 +11,9 @@
 Далее создаем сеть и подсети для бужущих виртуальных машин:
 
 ![изображение](https://github.com/user-attachments/assets/ea8dc17a-1508-448c-81b2-5071d59abc4c)
+
+Создаем виртуальные машины:
+
+![изображение](https://github.com/user-attachments/assets/3b16825e-e623-4586-831c-eec3a6becfa9)
+
+![изображение](https://github.com/user-attachments/assets/2e0203e4-6403-4b71-a55a-2075e16f08b4)
