@@ -64,5 +64,11 @@ Ansible:
 
 ![image](https://github.com/user-attachments/assets/319873fb-fb22-40f1-9bb0-03d822bee3ba)
 
+Установка nginx с помощью Ansible:
 
+![изображение](https://github.com/user-attachments/assets/05206c74-3eec-43df-9104-a5305b7f7b01)
+
+![изображение](https://github.com/user-attachments/assets/a0a7bea8-ec7c-4088-a443-eee2e6573158)
+
+![изображение](https://github.com/user-attachments/assets/d148267c-f3f6-4685-b823-8c329775bf77)
 
