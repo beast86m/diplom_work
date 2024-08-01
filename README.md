@@ -55,9 +55,11 @@ Ansible:
 ![image](https://github.com/user-attachments/assets/60503ed4-1f5a-409d-9ac4-8cb478ca611b)
 
 Проверяем, что ansible установился:
+
 ![image](https://github.com/user-attachments/assets/36238085-2851-4c9d-bb3f-354a2eed46a2)
 
 Делаем проверку серверров:
+
 ![image](https://github.com/user-attachments/assets/1e88762d-2417-4d49-a81a-be7e1dad7267)
 ![image](https://github.com/user-attachments/assets/319873fb-fb22-40f1-9bb0-03d822bee3ba)
 
