@@ -54,8 +54,7 @@ Ansible:
 ![image](https://github.com/user-attachments/assets/106ad159-e8f2-45bb-b043-7bf9d087c71e)
 ![image](https://github.com/user-attachments/assets/60503ed4-1f5a-409d-9ac4-8cb478ca611b)
 
-
-
+Проверяем, что ansible установился:
 ![image](https://github.com/user-attachments/assets/36238085-2851-4c9d-bb3f-354a2eed46a2)
 
 
