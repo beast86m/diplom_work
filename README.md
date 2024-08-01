@@ -20,6 +20,9 @@
 
 ![изображение](https://github.com/user-attachments/assets/6f4a2040-d73f-49b3-978d-56c803d6b364)
 
+![изображение](https://github.com/user-attachments/assets/e00c52db-6fcd-4d58-a2cd-dcc8ae238d61)
+
+
 Создаем Target группы и добавляем в нее две ВМ:
 
 ![изображение](https://github.com/user-attachments/assets/048de38c-d623-4629-b4db-a436fe8414bb)
