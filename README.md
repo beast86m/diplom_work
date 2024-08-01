@@ -46,5 +46,19 @@
 
 ![изображение](https://github.com/user-attachments/assets/b0fa6888-ba9a-4812-b21a-be1821c1b1cc)
 
+Ansible:
+
+Устанавливаем на ВМ Бастион Ansible:
+
+![image](https://github.com/user-attachments/assets/5ed948de-b49c-4bd1-bbad-c82b42e9efb9)
+![image](https://github.com/user-attachments/assets/106ad159-e8f2-45bb-b043-7bf9d087c71e)
+![image](https://github.com/user-attachments/assets/60503ed4-1f5a-409d-9ac4-8cb478ca611b)
+
+
+
+![image](https://github.com/user-attachments/assets/36238085-2851-4c9d-bb3f-354a2eed46a2)
+
+
+![image](https://github.com/user-attachments/assets/cada0d18-a0f8-489d-9952-68e9327415a5)
 
 
