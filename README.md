@@ -81,6 +81,9 @@ Zabbix:
 ![изображение](https://github.com/user-attachments/assets/bedc69bf-1bcc-4855-8ddf-7c080649310e)
 
 
+![изображение](https://github.com/user-attachments/assets/de514f0d-fa41-4a9b-90c8-be754bc9b70d)
+
+
 Elasticsearch и Kibana:
 
 ![изображение](https://github.com/user-attachments/assets/58a28a93-86a9-4dc5-9e21-865d8435c5d1)
@@ -91,8 +94,16 @@ Elasticsearch и Kibana:
 
 ![изображение](https://github.com/user-attachments/assets/c987637a-31f5-4ffa-bdee-a63d8d93006e)
 
+![изображение](https://github.com/user-attachments/assets/a52511ff-2b4c-427b-8294-79fadb1655c8)
 
 
+Filebeat:
+
+![изображение](https://github.com/user-attachments/assets/e45bdf70-af01-47da-831f-82642d54ee50)
+
+![изображение](https://github.com/user-attachments/assets/94cabe73-3067-426e-8ceb-026fc1369ed4)
+
+![изображение](https://github.com/user-attachments/assets/5f4ffb9b-934c-4341-9919-2349db593509)
 
 
 
