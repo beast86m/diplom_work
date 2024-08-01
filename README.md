@@ -61,9 +61,8 @@ Ansible:
 Делаем проверку серверров:
 
 ![image](https://github.com/user-attachments/assets/1e88762d-2417-4d49-a81a-be7e1dad7267)
+
 ![image](https://github.com/user-attachments/assets/319873fb-fb22-40f1-9bb0-03d822bee3ba)
 
-
-![image](https://github.com/user-attachments/assets/cada0d18-a0f8-489d-9952-68e9327415a5)
 
 
