@@ -79,3 +79,20 @@ Zabbix:
 
 
 ![изображение](https://github.com/user-attachments/assets/bedc69bf-1bcc-4855-8ddf-7c080649310e)
+
+
+Elasticsearch и Kibana:
+
+![изображение](https://github.com/user-attachments/assets/58a28a93-86a9-4dc5-9e21-865d8435c5d1)
+
+![изображение](https://github.com/user-attachments/assets/a53faa5e-150e-4a3c-b10b-450e8a8d981a)
+
+![изображение](https://github.com/user-attachments/assets/f4c3471a-b894-4dc6-880e-b0c66672c0c4)
+
+![изображение](https://github.com/user-attachments/assets/c987637a-31f5-4ffa-bdee-a63d8d93006e)
+
+
+
+
+
+
