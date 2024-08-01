@@ -1,0 +1,9 @@
+---
+- hosts: zabbix
+  vars_files:
+    - /home/beast/ansible/roles/zabbix-server/vars/main.yml
+  remote_user: beast
+  become: yes
+  become_method: sudo
+  roles:
+    - zabbix-server
