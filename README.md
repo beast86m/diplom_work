@@ -21,13 +21,13 @@
 ![изображение](https://github.com/user-attachments/assets/e00c52db-6fcd-4d58-a2cd-dcc8ae238d61)
 
 
-Создаем Target группы и добавляем в нее две ВМ:
+Создаем [Target группы](https://github.com/beast86m/diplom_work/blob/main/terraform/security.tf) и добавляем в нее две ВМ:
 
 ![изображение](https://github.com/user-attachments/assets/048de38c-d623-4629-b4db-a436fe8414bb)
 
 ![изображение](https://github.com/user-attachments/assets/90af9363-08b4-41a9-83c6-d5d4a25cd0fd)
 
-Создаем Backend Group, настраиваем backends на target group, ранее созданную. Настроаиваем healthcheck на корень (/) и порт 80, протокол HTTP:
+Создаем [Backend Group](https://github.com/beast86m/diplom_work/blob/main/terraform/security.tf), настраиваем backends на target group, ранее созданную. Настроаиваем healthcheck на корень (/) и порт 80, протокол HTTP:
 
 ![изображение](https://github.com/user-attachments/assets/c75b4221-8112-49e3-94c8-78ef6036c615)
 
