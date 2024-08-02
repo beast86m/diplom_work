@@ -39,7 +39,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/9f5e484c-0a2c-4304-947c-20f679c6123f)
 
-Балансировщик:
+Создадим [Application load balancer](https://github.com/beast86m/diplom_work/blob/main/terraform/security.tf) для распределения трафика на веб-сервера, созданные ранее. Укажем HTTP router, созданный ранее, зададим listener тип auto, порт 80.
 
 ![изображение](https://github.com/user-attachments/assets/ff145ebd-9674-4d2a-8df1-189d1b903ec8)
 
