@@ -41,9 +41,11 @@
 
 Создадим [Application load balancer](https://github.com/beast86m/diplom_work/blob/main/terraform/security.tf) для распределения трафика на веб-сервера, созданные ранее. Укажем HTTP router, созданный ранее, зададим listener тип auto, порт 80.
 
+![image](https://github.com/user-attachments/assets/1c893f57-1799-4d88-929f-fb99a5096558)
+
 ![изображение](https://github.com/user-attachments/assets/ff145ebd-9674-4d2a-8df1-189d1b903ec8)
 
-![изображение](https://github.com/user-attachments/assets/b0fa6888-ba9a-4812-b21a-be1821c1b1cc)
+
 
 Ansible:
 
