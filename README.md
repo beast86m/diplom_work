@@ -110,6 +110,9 @@
 
 ![изображение](https://github.com/user-attachments/assets/de514f0d-fa41-4a9b-90c8-be754bc9b70d)
 
+![image](https://github.com/user-attachments/assets/105aea22-4940-466c-b2fd-1abb334ed936)
+
+
 
 ## Логи
 
