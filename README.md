@@ -96,12 +96,16 @@
 
 ![изображение](https://github.com/user-attachments/assets/df5ad3b2-391f-40cb-b3fc-9d8eab046617)
 
+После первоначальной настройки попадаем в Веб-интерфейс Zabbix'a, доступен по адресу [http://51.250.45.162](http://51.250.45.162:8080):
+
+![изображение](https://github.com/user-attachments/assets/bedc69bf-1bcc-4855-8ddf-7c080649310e)
+
 Затем Zabbix-агенты:
 
 ![image](https://github.com/user-attachments/assets/d600a57e-3f86-406c-9b8f-c518b361283a)
 
 
-![изображение](https://github.com/user-attachments/assets/bedc69bf-1bcc-4855-8ddf-7c080649310e)
+
 
 
 ![изображение](https://github.com/user-attachments/assets/de514f0d-fa41-4a9b-90c8-be754bc9b70d)
