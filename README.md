@@ -10,6 +10,8 @@
 
 ![изображение](https://github.com/user-attachments/assets/ad9d7ee7-9b24-4c79-8190-c6eb1df438ce)
 
+## Сеть
+
 Далее создаем [сеть и подсети](https://github.com/beast86m/diplom_work/blob/main/terraform/net.tf) для бужущих виртуальных машин:
 
 ![изображение](https://github.com/user-attachments/assets/ea8dc17a-1508-448c-81b2-5071d59abc4c)
@@ -109,7 +111,8 @@
 ![изображение](https://github.com/user-attachments/assets/de514f0d-fa41-4a9b-90c8-be754bc9b70d)
 
 
-Elasticsearch и Kibana:
+##Логи
+
 
 ![изображение](https://github.com/user-attachments/assets/58a28a93-86a9-4dc5-9e21-865d8435c5d1)
 
