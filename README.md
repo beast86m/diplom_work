@@ -104,9 +104,7 @@
 
 ![image](https://github.com/user-attachments/assets/d600a57e-3f86-406c-9b8f-c518b361283a)
 
-
-
-
+Видим, что все Хосты отображаются и активны:
 
 ![изображение](https://github.com/user-attachments/assets/de514f0d-fa41-4a9b-90c8-be754bc9b70d)
 
