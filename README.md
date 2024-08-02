@@ -12,7 +12,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/ea8dc17a-1508-448c-81b2-5071d59abc4c)
 
-Создаем виртуальные машины:
+Создаем [виртуальные машины](https://github.com/beast86m/diplom_work/blob/main/terraform/vm.tf):
 
 ![изображение](https://github.com/user-attachments/assets/3b16825e-e623-4586-831c-eec3a6becfa9)
 
