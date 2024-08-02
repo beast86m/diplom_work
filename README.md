@@ -79,6 +79,8 @@
 
 ![изображение](https://github.com/user-attachments/assets/05206c74-3eec-43df-9104-a5305b7f7b01)
 
+Проверяем работу Балансировщика и вновь созданных сайтов:
+
 ![изображение](https://github.com/user-attachments/assets/a0a7bea8-ec7c-4088-a443-eee2e6573158)
 
 ![изображение](https://github.com/user-attachments/assets/d148267c-f3f6-4685-b823-8c329775bf77)
