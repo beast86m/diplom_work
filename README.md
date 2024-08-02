@@ -45,7 +45,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/ff145ebd-9674-4d2a-8df1-189d1b903ec8)
 
-
+Балансировщик досутпен по адресу: [http://51.250.34.124/](http://51.250.34.124/)
 
 Ansible:
 
