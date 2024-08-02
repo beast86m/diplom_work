@@ -113,6 +113,7 @@
 
 ## Логи
 
+Устанавливаем Elasticsearch:
 
 ![изображение](https://github.com/user-attachments/assets/58a28a93-86a9-4dc5-9e21-865d8435c5d1)
 
