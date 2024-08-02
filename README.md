@@ -133,8 +133,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/a52511ff-2b4c-427b-8294-79fadb1655c8)
 
-
-Filebeat:
+Установливаем Filebeat на вируальные машины с  веб-серверами и настроим на отправку access.log, error.log nginx'ов в Elasticsearch.
 
 ![изображение](https://github.com/user-attachments/assets/e45bdf70-af01-47da-831f-82642d54ee50)
 
