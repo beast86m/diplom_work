@@ -92,9 +92,13 @@
 
 ## Мониторинг
 
-
+Устанавливаем Zabbix-сервер: 
 
 ![изображение](https://github.com/user-attachments/assets/df5ad3b2-391f-40cb-b3fc-9d8eab046617)
+
+Затем Zabbix-агенты:
+
+![image](https://github.com/user-attachments/assets/d600a57e-3f86-406c-9b8f-c518b361283a)
 
 
 ![изображение](https://github.com/user-attachments/assets/bedc69bf-1bcc-4855-8ddf-7c080649310e)
