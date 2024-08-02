@@ -47,9 +47,7 @@
 
 Балансировщик досутпен по адресу: [http://51.250.34.124/](http://51.250.34.124/)
 
-Ansible:
-
-Устанавливаем на ВМ Бастион Ansible:
+Устанавливаем Ansible для дальнейшей установки сервисов на виртуальные машины:
 
 ![image](https://github.com/user-attachments/assets/5ed948de-b49c-4bd1-bbad-c82b42e9efb9)
 ![image](https://github.com/user-attachments/assets/106ad159-e8f2-45bb-b043-7bf9d087c71e)
