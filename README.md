@@ -49,6 +49,8 @@
 
 Балансировщик досутпен по адресу: [http://51.250.34.124/](http://51.250.34.124/)
 
+## Сайт
+
 Устанавливаем Ansible:
 
 ![image](https://github.com/user-attachments/assets/5ed948de-b49c-4bd1-bbad-c82b42e9efb9)
@@ -88,7 +90,9 @@
 ![изображение](https://github.com/user-attachments/assets/d148267c-f3f6-4685-b823-8c329775bf77)
 
 
-Zabbix:
+## Мониторинг
+
+
 
 ![изображение](https://github.com/user-attachments/assets/df5ad3b2-391f-40cb-b3fc-9d8eab046617)
 
