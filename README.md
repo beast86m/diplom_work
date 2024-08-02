@@ -43,8 +43,6 @@
 
 ![изображение](https://github.com/user-attachments/assets/ff145ebd-9674-4d2a-8df1-189d1b903ec8)
 
-![изображение](https://github.com/user-attachments/assets/9610f4a3-47c9-4f0d-afc8-37d1da6f2655)
-
 ![изображение](https://github.com/user-attachments/assets/b0fa6888-ba9a-4812-b21a-be1821c1b1cc)
 
 Ansible:
