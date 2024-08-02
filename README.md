@@ -4,7 +4,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/286f40c4-bea2-4097-98f0-8ca90805e91d)
 
-Создаем первый конфигурационный файл terraform с настройкой провайдера:
+Создаем первый конфигурационный [файл](https://github.com/beast86m/diplom_work/blob/main/terraform/main.tf) terraform с настройкой провайдера:
 
 ![изображение](https://github.com/user-attachments/assets/ad9d7ee7-9b24-4c79-8190-c6eb1df438ce)
 
