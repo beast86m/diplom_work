@@ -140,3 +140,11 @@
 ![изображение](https://github.com/user-attachments/assets/94cabe73-3067-426e-8ceb-026fc1369ed4)
 
 ![изображение](https://github.com/user-attachments/assets/5f4ffb9b-934c-4341-9919-2349db593509)
+
+## Резервное копирование
+
+![image](https://github.com/user-attachments/assets/95978279-3e52-4be6-8bd4-9b2d2d6082cc)
+
+![image](https://github.com/user-attachments/assets/864c9368-60a5-4d5e-a151-e95ee29ac9a5)
+
+
