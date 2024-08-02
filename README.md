@@ -117,11 +117,19 @@
 
 ![изображение](https://github.com/user-attachments/assets/58a28a93-86a9-4dc5-9e21-865d8435c5d1)
 
+Проверяем, что сервис запустился:
+
 ![изображение](https://github.com/user-attachments/assets/a53faa5e-150e-4a3c-b10b-450e8a8d981a)
+
+Устанавливаем Kibana:
 
 ![изображение](https://github.com/user-attachments/assets/f4c3471a-b894-4dc6-880e-b0c66672c0c4)
 
+Так же смотрим, что все запущено:
+
 ![изображение](https://github.com/user-attachments/assets/c987637a-31f5-4ffa-bdee-a63d8d93006e)
+
+Заходим на виртуальную машину с установленным сервисом, который доступен по адресу [51.250.32.232](http://51.250.32.232:5601)
 
 ![изображение](https://github.com/user-attachments/assets/a52511ff-2b4c-427b-8294-79fadb1655c8)
 
