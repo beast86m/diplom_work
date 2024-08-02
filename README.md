@@ -47,13 +47,15 @@
 
 Балансировщик досутпен по адресу: [http://51.250.34.124/](http://51.250.34.124/)
 
-Устанавливаем Ansible для дальнейшей установки сервисов на виртуальные машины:
+Ansible:
+
+Устанавливаем на ВМ Бастион Ansible:
 
 ![image](https://github.com/user-attachments/assets/5ed948de-b49c-4bd1-bbad-c82b42e9efb9)
 ![image](https://github.com/user-attachments/assets/106ad159-e8f2-45bb-b043-7bf9d087c71e)
 ![image](https://github.com/user-attachments/assets/60503ed4-1f5a-409d-9ac4-8cb478ca611b)
 
-Проверяем, что ansible установился:
+Проверяем, что Ansible установился:
 
 ![image](https://github.com/user-attachments/assets/36238085-2851-4c9d-bb3f-354a2eed46a2)
 
@@ -62,6 +64,18 @@
 ![image](https://github.com/user-attachments/assets/1e88762d-2417-4d49-a81a-be7e1dad7267)
 
 ![image](https://github.com/user-attachments/assets/319873fb-fb22-40f1-9bb0-03d822bee3ba)
+
+Сконфигурируем SSH  для настройки серверов через JumpHost Bastion:
+
+![image](https://github.com/user-attachments/assets/d02103d2-c337-429d-bd40-29a13c8f7ef4)
+
+Перед этим сгенерировали SSH-ключ командой: 
+
+![image](https://github.com/user-attachments/assets/b4513bb4-9d50-4d25-930c-aa928159412e)
+
+Слепок открытого ключа прописан в мета-данных при создании ВМ:
+
+![image](https://github.com/user-attachments/assets/8d7a8f94-0140-4cfb-a574-08b2d417084f)
 
 Установка nginx с помощью Ansible:
 
@@ -103,6 +117,3 @@ Filebeat:
 ![изображение](https://github.com/user-attachments/assets/94cabe73-3067-426e-8ceb-026fc1369ed4)
 
 ![изображение](https://github.com/user-attachments/assets/5f4ffb9b-934c-4341-9919-2349db593509)
-
-
-
